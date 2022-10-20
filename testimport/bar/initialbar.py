@@ -1,0 +1,2 @@
+def barfunc():
+    return True
